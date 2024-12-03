@@ -1,5 +1,5 @@
 # 💫 About Me:
-Gauri Chabukswar<br><br>Software Engineer <br><br>- 🎓 BS in Computer Science - Software Engineering concentration from California State University, Monterey Bay<br>- 🖥️ Full-stack developer specializing in web applications and mobile solutions<br>- 🛠️ Tech stack: JavaScript, React, Python, Java, Next.js, Django, Machine Learning<br>- 🌟 Passionate about delivering high-quality software solutions in Agile environments<br>- 🔗 Connect with me: https://www.linkedin.com/in/gaurichabukswar/ | gaurichabukswar5@gmail.com<br><br>Always eager to collaborate on innovative projects and contribute to open-source!<br><br><br><br><br>
+Gauri Chabukswar<br><br>Software Engineer <br><br>- 🎓 BS in Computer Science - Software Engineering concentration from California State University, Monterey Bay<br>- 🖥️ Full-stack developer specializing in web applications and mobile solutions<br>- 🛠️ Tech stack: JavaScript, React, Python, Java, Next.js, Django<br>- 🌟 Passionate about delivering high-quality software solutions in Agile environments<br>- 🔗 Connect with me: https://www.linkedin.com/in/gaurichabukswar/ | gaurichabukswar5@gmail.com<br><br>Always eager to collaborate on innovative projects and contribute to open-source!<br><br><br><br><br>
 
 
 ## 🌐 Socials:
